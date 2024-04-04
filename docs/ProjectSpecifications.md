@@ -31,3 +31,10 @@ There are a couple of ways to go about publishing your project, but the simplest
 * Click on Pages on the left side bar.
 * Change the Branch from none to main branch and click Save.
 * It may take a few minutes (the GitHub website says up to 10), but your project should be accessible over the web from your-github-username.github.io/your-github-repo-name (obviously substituting your own details in the link).
+
+
+
+Push your work to GitHub
+Finally, let’s upload your work to the GitHub repository you created at the start of this tutorial.
+
+Type git push. To be more specific, type git push origin main. Since you are not dealing with another branch (other than main) or a different remote (as mentioned above), you can leave it as git push to save a few keystrokes. NOTE: If at this point you receive a message that says
